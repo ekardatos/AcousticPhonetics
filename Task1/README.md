@@ -1,6 +1,6 @@
 # Objective:
 To analyze the audio files ENG.wav, JP.wav, and FR.wav using Praat software and create phonemic charts for each language (english, french, japanese).
-## 1. Calculate Formant Frequencies:
+## Calculate Formant Frequencies:
 
 For each vowel sound in each file:
 1. Select the vowel segment using the Praat annotation tools.
