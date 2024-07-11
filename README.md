@@ -1,2 +1,2 @@
 # Acoustic Phonetics
-* global * global 2
+*@ global *@global 2
