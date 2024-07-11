@@ -1,0 +1,192 @@
+﻿File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.4373015873015875 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 3.4373015873015875 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.4373015873015875 
+            text = "΄pços se ΄pire ti΄lefono" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 3.4373015873015875 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2429968458365492 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2429968458365492 
+            xmax = 1.38882756521304 
+            text = "΄pços" 
+        intervals [3]:
+            xmin = 1.38882756521304 
+            xmax = 1.4685928881183528 
+            text = "se" 
+        intervals [4]:
+            xmin = 1.4685928881183528 
+            xmax = 1.5324041242543183 
+            text = "" 
+        intervals [5]:
+            xmin = 1.5324041242543183 
+            xmax = 1.6673549607362668 
+            text = "΄pire" 
+        intervals [6]:
+            xmin = 1.6673549607362668 
+            xmax = 2.218928216624987 
+            text = "ti΄lefono" 
+        intervals [7]:
+            xmin = 2.218928216624987 
+            xmax = 3.4373015873015875 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 3.4373015873015875 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2429968458365492 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2429968458365492 
+            xmax = 1.38882756521304 
+            text = "΄pços" 
+        intervals [3]:
+            xmin = 1.38882756521304 
+            xmax = 1.4685928881183528 
+            text = "se" 
+        intervals [4]:
+            xmin = 1.4685928881183528 
+            xmax = 1.5324041242543183 
+            text = "" 
+        intervals [5]:
+            xmin = 1.5324041242543183 
+            xmax = 1.5825774855832848 
+            text = "΄pi" 
+        intervals [6]:
+            xmin = 1.5825774855832848 
+            xmax = 1.6673549607362668 
+            text = "re" 
+        intervals [7]:
+            xmin = 1.6673549607362668 
+            xmax = 1.755011351447787 
+            text = "ti" 
+        intervals [8]:
+            xmin = 1.755011351447787 
+            xmax = 1.9025319723296925 
+            text = "΄le" 
+        intervals [9]:
+            xmin = 1.9025319723296925 
+            xmax = 2.03467684772683 
+            text = "fo" 
+        intervals [10]:
+            xmin = 2.03467684772683 
+            xmax = 2.218928216624987 
+            text = "no" 
+        intervals [11]:
+            xmin = 2.218928216624987 
+            xmax = 3.4373015873015875 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Sounds" 
+        xmin = 0 
+        xmax = 3.4373015873015875 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2429968458365492 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2429968458365492 
+            xmax = 1.2753966769742748 
+            text = "p" 
+        intervals [3]:
+            xmin = 1.2753966769742748 
+            xmax = 1.3089168289881299 
+            text = "ç" 
+        intervals [4]:
+            xmin = 1.3089168289881299 
+            xmax = 1.356553811128352 
+            text = "o" 
+        intervals [5]:
+            xmin = 1.356553811128352 
+            xmax = 1.38882756521304 
+            text = "s" 
+        intervals [6]:
+            xmin = 1.38882756521304 
+            xmax = 1.4420463456809802 
+            text = "s" 
+        intervals [7]:
+            xmin = 1.4420463456809802 
+            xmax = 1.4685928881183528 
+            text = "e" 
+        intervals [8]:
+            xmin = 1.4685928881183528 
+            xmax = 1.5324041242543183 
+            text = "" 
+        intervals [9]:
+            xmin = 1.5324041242543183 
+            xmax = 1.5494802316628395 
+            text = "p" 
+        intervals [10]:
+            xmin = 1.5494802316628395 
+            xmax = 1.5825774855832848 
+            text = "΄i" 
+        intervals [11]:
+            xmin = 1.5825774855832848 
+            xmax = 1.6140523501273252 
+            text = "r" 
+        intervals [12]:
+            xmin = 1.6140523501273252 
+            xmax = 1.6673549607362668 
+            text = "e" 
+        intervals [13]:
+            xmin = 1.6673549607362668 
+            xmax = 1.7218513132694204 
+            text = "t" 
+        intervals [14]:
+            xmin = 1.7218513132694204 
+            xmax = 1.755011351447787 
+            text = "i" 
+        intervals [15]:
+            xmin = 1.755011351447787 
+            xmax = 1.8192968893398436 
+            text = "l" 
+        intervals [16]:
+            xmin = 1.8192968893398436 
+            xmax = 1.9025319723296925 
+            text = "΄e" 
+        intervals [17]:
+            xmin = 1.9025319723296925 
+            xmax = 2.003756107661045 
+            text = "f" 
+        intervals [18]:
+            xmin = 2.003756107661045 
+            xmax = 2.03467684772683 
+            text = "o" 
+        intervals [19]:
+            xmin = 2.03467684772683 
+            xmax = 2.117499042675381 
+            text = "n" 
+        intervals [20]:
+            xmin = 2.117499042675381 
+            xmax = 2.218928216624987 
+            text = "o" 
+        intervals [21]:
+            xmin = 2.218928216624987 
+            xmax = 3.4373015873015875 
+            text = "" 
