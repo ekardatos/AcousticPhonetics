@@ -1,0 +1,156 @@
+﻿File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.4473015873015873 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.4473015873015873 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43441859262248916 
+            text = "" 
+        intervals [2]:
+            xmin = 0.43441859262248916 
+            xmax = 1.3927747587252728 
+            text = "΄poso χro΄non ΄ise;" 
+        intervals [3]:
+            xmin = 1.3927747587252728 
+            xmax = 1.4473015873015873 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 1.4473015873015873 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43441859262248916 
+            text = "" 
+        intervals [2]:
+            xmin = 0.43441859262248916 
+            xmax = 0.6713879521727112 
+            text = "΄poso" 
+        intervals [3]:
+            xmin = 0.6713879521727112 
+            xmax = 1.0602188750715178 
+            text = "χro΄non" 
+        intervals [4]:
+            xmin = 1.0602188750715178 
+            xmax = 1.3927747587252728 
+            text = "΄ise" 
+        intervals [5]:
+            xmin = 1.3927747587252728 
+            xmax = 1.4473015873015873 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.4473015873015873 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43441859262248916 
+            text = "" 
+        intervals [2]:
+            xmin = 0.43441859262248916 
+            xmax = 0.522522807355274 
+            text = "΄po" 
+        intervals [3]:
+            xmin = 0.522522807355274 
+            xmax = 0.6713879521727112 
+            text = "so" 
+        intervals [4]:
+            xmin = 0.6713879521727112 
+            xmax = 0.7782151491508509 
+            text = "χro" 
+        intervals [5]:
+            xmin = 0.7782151491508509 
+            xmax = 1.0602188750715178 
+            text = "΄non" 
+        intervals [6]:
+            xmin = 1.0602188750715178 
+            xmax = 1.174772857101412 
+            text = "΄i" 
+        intervals [7]:
+            xmin = 1.174772857101412 
+            xmax = 1.3927747587252728 
+            text = "se" 
+        intervals [8]:
+            xmin = 1.3927747587252728 
+            xmax = 1.4473015873015873 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Sounds" 
+        xmin = 0 
+        xmax = 1.4473015873015873 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43441859262248916 
+            text = "" 
+        intervals [2]:
+            xmin = 0.43441859262248916 
+            xmax = 0.46384241752520505 
+            text = "p" 
+        intervals [3]:
+            xmin = 0.46384241752520505 
+            xmax = 0.522522807355274 
+            text = "΄o" 
+        intervals [4]:
+            xmin = 0.522522807355274 
+            xmax = 0.6219352650471901 
+            text = "s" 
+        intervals [5]:
+            xmin = 0.6219352650471901 
+            xmax = 0.6713879521727112 
+            text = "o" 
+        intervals [6]:
+            xmin = 0.6713879521727112 
+            xmax = 0.6921525669614687 
+            text = "χ" 
+        intervals [7]:
+            xmin = 0.6921525669614687 
+            xmax = 0.7255669315106057 
+            text = "r" 
+        intervals [8]:
+            xmin = 0.7255669315106057 
+            xmax = 0.7782151491508509 
+            text = "ο" 
+        intervals [9]:
+            xmin = 0.7782151491508509 
+            xmax = 0.8666756405662838 
+            text = "n" 
+        intervals [10]:
+            xmin = 0.8666756405662838 
+            xmax = 0.9739572718201046 
+            text = "΄o" 
+        intervals [11]:
+            xmin = 0.9739572718201046 
+            xmax = 1.0602188750715178 
+            text = "n" 
+        intervals [12]:
+            xmin = 1.0602188750715178 
+            xmax = 1.174772857101412 
+            text = "΄i" 
+        intervals [13]:
+            xmin = 1.174772857101412 
+            xmax = 1.2851773476678625 
+            text = "s" 
+        intervals [14]:
+            xmin = 1.2851773476678625 
+            xmax = 1.3927747587252728 
+            text = "e" 
+        intervals [15]:
+            xmin = 1.3927747587252728 
+            xmax = 1.4473015873015873 
+            text = "" 
