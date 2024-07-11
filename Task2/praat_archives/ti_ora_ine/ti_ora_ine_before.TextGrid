@@ -1,0 +1,124 @@
+﻿File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.6625850340136055 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.6625850340136055 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6625850340136055 
+            text = "ti ΄ora ΄ine;" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 1.6625850340136055 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.412728361698758 
+            text = "" 
+        intervals [2]:
+            xmin = 0.412728361698758 
+            xmax = 0.548676554701643 
+            text = "ti" 
+        intervals [3]:
+            xmin = 0.548676554701643 
+            xmax = 0.791741170639287 
+            text = "΄ora" 
+        intervals [4]:
+            xmin = 0.791741170639287 
+            xmax = 1.0226797411001116 
+            text = "΄ine" 
+        intervals [5]:
+            xmin = 1.0226797411001116 
+            xmax = 1.6625850340136055 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.6625850340136055 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.412728361698758 
+            text = "" 
+        intervals [2]:
+            xmin = 0.412728361698758 
+            xmax = 0.548676554701643 
+            text = "ti" 
+        intervals [3]:
+            xmin = 0.548676554701643 
+            xmax = 0.6330859288197296 
+            text = "΄o" 
+        intervals [4]:
+            xmin = 0.6330859288197296 
+            xmax = 0.791741170639287 
+            text = "ra" 
+        intervals [5]:
+            xmin = 0.791741170639287 
+            xmax = 0.8862110678513416 
+            text = "΄i" 
+        intervals [6]:
+            xmin = 0.8862110678513416 
+            xmax = 1.0226797411001116 
+            text = "ne" 
+        intervals [7]:
+            xmin = 1.0226797411001116 
+            xmax = 1.6625850340136055 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Sounds" 
+        xmin = 0 
+        xmax = 1.6625850340136055 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.412728361698758 
+            text = "" 
+        intervals [2]:
+            xmin = 0.412728361698758 
+            xmax = 0.46448083423450404 
+            text = "t" 
+        intervals [3]:
+            xmin = 0.46448083423450404 
+            xmax = 0.548676554701643 
+            text = "i" 
+        intervals [4]:
+            xmin = 0.548676554701643 
+            xmax = 0.6330859288197296 
+            text = "΄o" 
+        intervals [5]:
+            xmin = 0.6330859288197296 
+            xmax = 0.6757378685973879 
+            text = "r" 
+        intervals [6]:
+            xmin = 0.6757378685973879 
+            xmax = 0.791741170639287 
+            text = "a" 
+        intervals [7]:
+            xmin = 0.791741170639287 
+            xmax = 0.8862110678513416 
+            text = "΄i" 
+        intervals [8]:
+            xmin = 0.8862110678513416 
+            xmax = 0.9351822733538555 
+            text = "n" 
+        intervals [9]:
+            xmin = 0.9351822733538555 
+            xmax = 1.0226797411001116 
+            text = "e" 
+        intervals [10]:
+            xmin = 1.0226797411001116 
+            xmax = 1.6625850340136055 
+            text = "" 
