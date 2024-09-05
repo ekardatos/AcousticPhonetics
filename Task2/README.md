@@ -22,7 +22,7 @@ Provide clear and comprehensive phonetic analysis supported by graphs and tables
 Base conclusions on the analysis and interpret changes in speech after speech therapy.
 Resources
 "Recordings" folder containing patient audio recordings.
-Praat: free phonetic analysis software ([removed invalid URL])
+Praat: free phonetic analysis software.
 Phonetic analysis of dysarthric speech before and after speech therapy provides valuable information about the therapy's impact on speech.
 
 This project aims to practice phonetic analysis skills and interpret the results to understand changes related to speech therapy.
