@@ -1,6 +1,6 @@
 # Acoustic Phonetics
 
-Analysis of acoustic phonetic features using Praat and Python, covering dysarthric speech therapy evaluation and cross-language vowel formant analysis.
+Analysis of acoustic phonetic features using Praat, covering dysarthric speech therapy evaluation and cross-language vowel formant analysis.
 
 ---
 
